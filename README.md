@@ -1,27 +1,29 @@
-# EmsiApp
+# ANGULAR ACTIVITE 5 FAHD BENZINANE 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.5.
+# authentification user1 :
 
-## Development server
+![authentification user1](https://github.com/fidoxdox233/angular_activite_5/assets/53585316/6b6bd75c-da04-49fd-87ab-5e3fe1368915)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+#Affichage des produits pour utilisateur user1 :
 
-## Code scaffolding
+![list products user ](https://github.com/fidoxdox233/angular_activite_5/assets/53585316/be58fb33-8cd6-4e35-be90-90279fc48104)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# Ajout d'un nouveau produit pour user1 non authorize :
 
-## Build
+![new product user not authorized ](https://github.com/fidoxdox233/angular_activite_5/assets/53585316/8e32d917-5ef4-4a3a-88f9-6c2a084652fc)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+# authentification admin :
 
-## Running unit tests
+![admin authentication](https://github.com/fidoxdox233/angular_activite_5/assets/53585316/bef53b13-b798-4e09-a6f9-30a07eb2b678)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+#Affichage des produits pour utilisateur admin :
 
-## Running end-to-end tests
+![products admin ](https://github.com/fidoxdox233/angular_activite_5/assets/53585316/e380f809-b453-4161-93b1-918aadf94a6d)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+# Ajout d'un nouveau produit pour admin  :
 
-## Further help
+![new product admin](https://github.com/fidoxdox233/angular_activite_5/assets/53585316/a9ad20e5-6186-42d4-92be-ef43de256722)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# Suppression d'un  produit pour admin  :
+
+![delete product admin ](https://github.com/fidoxdox233/angular_activite_5/assets/53585316/e0e13023-be12-4e12-887f-fcd195601418)
